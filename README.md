@@ -68,7 +68,7 @@ A seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="Florensa Dimer">
+      <a href="https://github.com/FlorensaDimer" title="Florensa Dimer">
         <img src="https://avatars.githubusercontent.com/u/39315494?s=96&v=4" width="100px;" alt="Foto de Florensa Dimer no GitHub"/><br>
         <sub>
           <b>Florensa Dimer</b>
