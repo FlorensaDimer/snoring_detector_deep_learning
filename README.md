@@ -12,14 +12,14 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
-- [x] 1 Business Understanding
-- [] 2 Data Understanding
-- [] 3 Data Preparation
-- [] 4 Data Understanding (Again)
-- [] 5 Modeling
-- [] 6 Evaluation
-- [] 7 Deployment
-- [] 8 Conclusion
+1. [x]Business Understanding
+2. [] Data Understanding
+3. [] Data Preparation
+4. [] Data Understanding (Again)
+5. [] Modeling
+6. [] Evaluation
+7. [] Deployment
+8. [] Conclusion
 
 
 ### 🚀 Instalando snoring
