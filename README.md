@@ -1,5 +1,8 @@
 # snoring
-
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![Repo Size](https://img.shields.io/github/repo-size/FlorensaDimer/snoring)
 ![Last Commit](https://img.shields.io/github/last-commit/FlorensaDimer/snoring)
 ![Forks](https://img.shields.io/github/forks/FlorensaDimer/snoring?style=flat)
