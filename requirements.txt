@@ -1,0 +1,9 @@
+matplotlib
+numpy
+seaborn
+tensorflow
+ipython
+setuptools
+pydub
+ydata-profiling
+librosa
