@@ -12,21 +12,21 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
-1. [x]Business Understanding
-2. [] Data Understanding
-3. [] Data Preparation
-4. [] Data Understanding (Again)
-5. [] Modeling
-6. [] Evaluation
-7. [] Deployment
-8. [] Conclusion
+- [x] Business Understanding
+- [] Data Understanding
+- [] Data Preparation
+- [] Data Understanding (Again)
+- [] Modeling
+- [] Evaluation
+- [] Deployment
+- [] Conclusion
 
 
-### 🚀 Instalando snoring
+## 🚀 Instalando snoring
 
 Para instalar o snoring, siga estas etapas:
 
-## 💻 Pré-requisitos
+### 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
@@ -34,7 +34,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Visual Studio Code com a extensão do Jupyter instalada.
 - Python 3.12.6 instalado na sua máquina.
 
-## 🪟 Instalação no Windows:
+### 🪟 Instalação no Windows:
 
 1. Clone o repositório:
     ```
@@ -62,15 +62,15 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+A seguintes pessoas que contribuíram para este projeto:
 
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="defina o título do link">
-        <img src="https://avatars.githubusercontent.com/u/39315494?s=96&v=4" width="100px;" alt="Foto da Florensa Dimer no GitHub"/><br>
+      <a href="#" title="Florensa Dimer">
+        <img src="https://avatars.githubusercontent.com/u/39315494?s=96&v=4" width="100px;" alt="Foto de Florensa Dimer no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Florensa Dimer</b>
         </sub>
       </a>
     </td>
