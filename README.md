@@ -1,4 +1,4 @@
-# snoring dectector with deep learning 
+# Detector de ronco com aprendizado profundo 
 ![Repo Size](https://img.shields.io/github/repo-size/FlorensaDimer/snoring)
 ![Last Commit](https://img.shields.io/github/last-commit/FlorensaDimer/snoring)
 ![Banner](assets/banner.png)
