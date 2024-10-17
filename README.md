@@ -8,9 +8,9 @@
 > Este projeto contém um modelo de deep learning baseado em um [tutorial do TensorFlow](https://www.tensorflow.org/tutorials/audio/simple_audio?hl=pt-br) para identificar sons de ronco (snoring) e não ronco (not snoring). Desenvolvido como parte de um projeto de pesquisa na PUCRS, ele visa auxiliar na análise de distúrbios do sono.
 
 ### Tecnologias
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/doc/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://docs.python.org/pt-br/3.12/whatsnew/3.12.html)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/tutorials/audio/simple_audio?hl=pt-br)
+[![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/guides/sequential_model/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/documentation)
 
 ### Processo de desenvolvimeno utilizando Crisp-DM
