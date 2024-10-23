@@ -67,7 +67,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🤝 Colaboradores
 
-A seguintes pessoas que contribuíram para este projeto:
+As pessoas que contribuíram para este projeto:
 
 <table>
   <tr>
