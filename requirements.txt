@@ -1,9 +1,10 @@
 matplotlib
 numpy
 seaborn
-tensorflow
+tensorflow[and-cuda]
 ipython
 setuptools
 pydub
 ydata-profiling
 librosa
+ffmpeg
