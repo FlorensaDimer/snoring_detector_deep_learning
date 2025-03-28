@@ -8,3 +8,4 @@ pydub
 ydata-profiling
 librosa
 ffmpeg
+keras
